@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AuraCare House",
+  "description": "A luxury single-vendor e-commerce platform for premium beauty, skincare, and health care products.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
